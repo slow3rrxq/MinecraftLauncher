@@ -1,0 +1,41 @@
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.csproj.AssemblyReference.cache
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft_Launcher.LoginScreen.resources
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft_Launcher.MainScreen.resources
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft_Launcher.Properties.Resources.resources
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft_Launcher.SplashScreen.resources
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.csproj.GenerateResource.cache
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.csproj.CoreCompileInputs.cache
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.exe.config
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.exe
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.pdb
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\CmlLib.Core.Commons.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\CmlLib.Core.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\SevenZip.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Buffers.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Memory.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Text.Json.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.ValueTuple.dll
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\SevenZip.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Buffers.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Memory.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Text.Json.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\bin\Debug\System.ValueTuple.xml
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraf.0858FAAA.Up2Date
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.exe
+C:\Users\conso\source\repos\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.pdb
